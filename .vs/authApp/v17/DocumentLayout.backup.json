@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\authApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|d:\\authapp\\authapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|solutionrelative:authapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|d:\\authapp\\authapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|solutionrelative:authapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|d:\\authapp\\authapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|solutionrelative:authapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|d:\\authapp\\authapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|solutionrelative:authapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|d:\\authapp\\authapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|solutionrelative:authapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|d:\\authapp\\authapp\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|solutionrelative:authapp\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|d:\\authapp\\authapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|solutionrelative:authapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|d:\\authapp\\authapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|solutionrelative:authapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|d:\\authapp\\authapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE2FDAA-EEE7-4441-B659-9C52AEF77965}|authApp\\authApp.csproj|solutionrelative:authapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\authApp\\authApp\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "authApp\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\authApp\\authApp\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "authApp\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T20:44:34.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\authApp\\authApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "authApp\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\authApp\\authApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "authApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:44:01.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\authApp\\authApp\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "authApp\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\authApp\\authApp\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "authApp\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:43:00.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\authApp\\authApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "authApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\authApp\\authApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "authApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:42:12.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\authApp\\authApp\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "authApp\\data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\authApp\\authApp\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "authApp\\data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:32:39.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\authApp\\authApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "authApp\\Models\\User.cs",
+              "ToolTip": "D:\\authApp\\authApp\\Models\\User.cs",
+              "RelativeToolTip": "authApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:32:04.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\authApp\\authApp\\Program.cs",
+              "RelativeDocumentMoniker": "authApp\\Program.cs",
+              "ToolTip": "D:\\authApp\\authApp\\Program.cs",
+              "RelativeToolTip": "authApp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:16:19.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\authApp\\authApp\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "authApp\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\authApp\\authApp\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "authApp\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T20:44:51.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\authApp\\authApp\\appsettings.json",
+              "RelativeDocumentMoniker": "authApp\\appsettings.json",
+              "ToolTip": "D:\\authApp\\authApp\\appsettings.json",
+              "RelativeToolTip": "authApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T20:28:24.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
