@@ -58,8 +58,7 @@
               "RelativeToolTip": "authApp\\Views\\User\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T20:44:34.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:44:34.867Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "authApp\\Controllers\\UserController.cs",
               "ToolTip": "D:\\authApp\\authApp\\Controllers\\UserController.cs",
               "RelativeToolTip": "authApp\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T20:44:01.41Z",
               "EditorCaption": ""
@@ -84,8 +83,7 @@
               "RelativeToolTip": "authApp\\Models\\RegisterViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:43:00.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:43:00.425Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "authApp\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:42:12.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:42:12.911Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "authApp\\data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:32:39.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:32:39.009Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "authApp\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:32:04.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:32:04.134Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "authApp\\Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:16:19.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:16:19.21Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "authApp\\Views\\User\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T20:44:51.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:44:51.194Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "authApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T20:28:24.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:28:24.587Z"
             }
           ]
         }

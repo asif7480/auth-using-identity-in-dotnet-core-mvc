@@ -154,3 +154,4 @@ D:\authApp\authApp\obj\Debug\net8.0\authApp.pdb
 D:\authApp\authApp\obj\Debug\net8.0\authApp.genruntimeconfig.cache
 D:\authApp\authApp\obj\Debug\net8.0\ref\authApp.dll
 D:\authApp\authApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\authApp\authApp\obj\Debug\net8.0\authApp.sourcelink.json
